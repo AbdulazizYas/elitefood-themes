@@ -1,0 +1,49 @@
+.body-preloader .dots .dot.one{
+  background-color:#83c773 !important;
+}
+.body-preloader .dots .dot.two{
+  background-color:#25823f !important;
+}
+.body-preloader .dots .dot.three{
+  background-color:#a68240 !important;
+}
+.mobilemenu-close{
+  background-color:#46a347;
+}
+.promo-topline{
+  display:none !important;
+}
+
+.dropdn-content i{
+  color: #46a347 !important;
+}
+
+.prd-block_description .desc a{
+  color: #a68240 !important;
+}
+.hdr-desktop .container{
+  max-width:100%;
+}
+.hdr-desktop .hdr-nav{
+  background-color: #46a347;
+}
+.hdr-desktop .hdr-nav .mmenu-item--simple > a,
+.hdr-desktop .hdr-nav .mmenu-item--mega > a{
+  color: #fff !important;
+}
+.hdr-nav .mmenu-item--simple,
+.hdr-nav .mmenu-item--mega{
+  transition: background-color .2s ease-in-out;
+}
+.hdr-desktop .hdr-nav .mmenu-item--simple:hover,
+.hdr-desktop .hdr-nav .mmenu-item--mega:hover{
+  background-color: #fff;
+}
+
+.sticky-holder .hdr-nav .mmenu-item--simple a:hover,
+.sticky-holder .hdr-nav .mmenu-item--mega a:hover{
+  color: #46a347 !important;
+}
+.sticky-holder .mmenu > li > a:before {
+ background-color: #46a347 !important;
+}
