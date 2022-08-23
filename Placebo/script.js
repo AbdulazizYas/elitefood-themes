@@ -1,7 +1,4 @@
-console.log("outsite jquery");
 $("document").ready(function () {
-  console.log("insite jquery");
-
   $("footer .row.lined").append(
     '<a href="https://maroof.sa/78399" class="maarof" target="_blank"><img border="0" alt="Maarof" src="https://elitefood.com.sa/image/ZSGOZ908/data/maarof.png"></a>'
   );
